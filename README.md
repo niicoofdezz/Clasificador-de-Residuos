@@ -134,7 +134,6 @@ ClasificadorResiduos/
         └── test/
             ├── Carton/
             ├── Metal/
-            ├── Plastic/
             ├── Plastico/
             └── Vidrio/
 ```
@@ -174,7 +173,7 @@ python camara.py
 
 <div align="center">
 
-> _Demo del sistema de clasificación en tiempo real_
+[![Demo Clasificador de Residuos](https://img.youtube.com/vi/C4SCLI8aqXw/maxresdefault.jpg)](https://www.youtube.com/watch?v=C4SCLI8aqXw)
 
 </div>
 
